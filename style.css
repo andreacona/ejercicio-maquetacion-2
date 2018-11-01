@@ -1,6 +1,6 @@
 
-.navbar .navbar-default{
-  margin: 0px;
+.navbar {
+  border: none;
 
 }
 .collapse {
@@ -13,8 +13,11 @@
   color: white;
 }
 
-.header__inner-bg{
-  width: 100%;
+.header{
+height: 600px;
+background-image: url("assets/img/post-image.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
 }
 
 .header__inner-text{
@@ -24,7 +27,7 @@
 .header__inner-text h2{
   color: white;
   font-size: 60px;
-  padding-top: 202px;
+  padding-top:202px;
 }
 
 .blog__inner{
@@ -41,6 +44,7 @@
   font-family: roboto;
   font-weight: 300;
   padding-bottom: 20px;
+  padding-left: 51px;
 }
 
 .Autor__bg{
@@ -49,8 +53,12 @@
 
 }
 
+.Autor__info{
+  padding-left: 51px;
+}
 .Autor__info h3{
   margin-top: 140px;
+
   font-family:"Playfair Display, serif";
   font-style: bold 700 italic;
   font-weight: 700;
@@ -67,4 +75,14 @@
   padding:20px;
   color:white;
   font-family: roboto;
+}
+
+.Footer__inner{
+  background-color: black;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.Footer__inner-bg{
+  width: 100px;
 }
