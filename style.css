@@ -1,0 +1,70 @@
+
+.navbar .navbar-default{
+  margin: 0px;
+
+}
+.collapse {
+  background-color: black;
+  color: white;
+  padding-left: 0px;
+}
+
+.navbar-right{
+  color: white;
+}
+
+.header__inner-bg{
+  width: 100%;
+}
+
+.header__inner-text{
+  position: absolute;
+}
+
+.header__inner-text h2{
+  color: white;
+  font-size: 60px;
+  padding-top: 202px;
+}
+
+.blog__inner{
+  font-family: roboto;
+  font-weight: 300;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-bottom: solid black 1px;
+  color: #323333;
+}
+
+.Autor{
+  color: #323333;
+  font-family: roboto;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
+
+.Autor__bg{
+  border-radius: 180px;
+  padding-top: 10px;
+
+}
+
+.Autor__info h3{
+  margin-top: 140px;
+  font-family:"Playfair Display, serif";
+  font-style: bold 700 italic;
+  font-weight: 700;
+  }
+
+.Autor__contact-inner{
+  margin-top: 110px;
+}
+
+.Entradas{
+  background-color: #707070;
+}
+.Entradas__inner{
+  padding:20px;
+  color:white;
+  font-family: roboto;
+}
